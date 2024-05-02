@@ -2,11 +2,8 @@
 
 ## About the project
 
-Markup : * Bullet list
-              * Nested bullet
-                  * Sub-nested bullet etc
-          * Bullet list item 2
-
+- Bullet list
+- j
           
 We have created a comprehensive classification framework for yoga poses, with the goal of accurately identifying the specific posture being demonstrated by the participant in a given
 video recording.
