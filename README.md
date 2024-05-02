@@ -8,7 +8,7 @@
 ### Dataset and Feature Extraction
 
 - Download yoga videos of 6 asanas from [Yoga-data](https://archive.org/details/YogaVidCollected) and extract feature by running the file "json_data_extractor_skip9".
-- Or you can download the feature extracted in JSON format from the dataset above.
+- Or you can download the feature already extracted in JSON format from the dataset above.
 
 - Clone the git repository
 
