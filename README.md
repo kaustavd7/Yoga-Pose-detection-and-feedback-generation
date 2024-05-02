@@ -6,7 +6,7 @@
 - Develop a structured feedback mechanism for evaluating yoga pose videos, focusing on aligning them with the standards of an ideal yoga demonstration.
 
 ## Table of Contents
-- [Dataset and Feature Extraction](#Dataset and Feature Extraction)
+- [Dataset and Feature Extraction](##dataset)
 - [Installation](#installation)
 - [Usage](#usage)
   - [Examples](#examples)
