@@ -8,7 +8,7 @@
 ### Dataset and Feature Extraction
 
 - Download yoga videos of 6 asanas from [Yoga-data](https://archive.org/details/YogaVidCollected) and extract feature by running the file "json_data_extractor_skip9".
-- Or you can download the feature extracted in JSON format from dataset above.
+- Or you can download the feature extracted in JSON format from the dataset above.
 
 - Clone the git repository
 
@@ -20,4 +20,5 @@ Once the repository is cloned, open the Yoga_Classification folder
  - Lastly, execute the predict-continuous-FINAL.ipynb script. This enables the prediction of yoga asanas for any given video.
   
 #### Feedback Generation 
- - Run the "find_best_intermediate" file, just edit the 
+ - Run the "find_best_intermediate" file, just edit the file path of the ideal yoga pose.
+ - 
