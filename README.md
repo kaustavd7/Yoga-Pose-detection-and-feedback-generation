@@ -17,12 +17,12 @@ Once the repository is cloned, open the Yoga_Classification folder
 #### **Yoga Classification**
  - Begin by executing the preproc-seq.ipynb script. This will generate six .npy files denoted as "trainX", "testX", "valX", "trainY", "testY", and "valY".
  - Proceed with the [CNN-LSTM-model.ipynb](Yoga_Classification/CNN-LSTM-model.ipynb) script. This step involves generating and evaluating the model weights using the test data.
- - Lastly, execute the predict-continuous-FINAL.ipynb script. This enables the prediction of yoga asanas for any given video.
+ - Lastly, execute the [predict-continuous-FINAL.ipynb](Yoga_Classification/predict-continous-FINAL.ipynb) script. This enables the prediction of yoga asanas for any given video.
 
 Onto, the second part of our project, open the Feedback-Generation folder.
 
 #### Feedback Generation 
- - Run the "find_best_intermediate" file, just edit the folder path of the ideal yoga pose(available in the dataset above) test video and input_word of yoga pose the test video is performing wherever required.
+ - Run the [Find_best_intermediate.ipynb](Feedback-Generation/Find_best_intermediate.ipynb) file, just edit the folder path of the ideal yoga pose(available in the dataset above) test video and input_word of the yoga pose the test video is performing wherever required.
 
 ### Result and Presentations
 
