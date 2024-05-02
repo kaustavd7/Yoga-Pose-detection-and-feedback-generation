@@ -20,5 +20,5 @@ Once the repository is cloned, open the Yoga_Classification folder
  - Lastly, execute the predict-continuous-FINAL.ipynb script. This enables the prediction of yoga asanas for any given video.
   
 #### Feedback Generation 
- - Run the "find_best_intermediate" file, just edit the file path of the ideal yoga pose.
- - 
+ - Run the "find_best_intermediate" file, just edit the folder path of the ideal yoga pose, test video and input_word of yoga pose the test video is performing.
+   
