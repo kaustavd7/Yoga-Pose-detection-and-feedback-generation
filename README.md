@@ -7,14 +7,14 @@
 
 ### Dataset and Feature Extraction
 
-- Download yoga_data.zip file
-- 
+- Download yoga videos of 6 asanas from [Yoga-data](https://archive.org/details/YogaVidCollected) and extract feature by running the file "json_data_extractor_skip9".
+- Or you can download the feature extracted in JSON format from dataset above.
 
 - Clone the git repository
 
 Once the repository is cloned, open the Yoga_Classification folder
 
-1. ** Yoga Classification
+1. ** Yoga Classification **
 - Begin by executing the preproc-seq.ipynb script. This will generate six .npy files denoted as "trainX", "testX", "valX", "trainY", "testY", and "valY".
 - Proceed with the CNN-LSTM-model.ipynb script. This step involves generating and evaluating the model weights using the test data.
 - Lastly, execute the predict-continuous-FINAL.ipynb script. This enables the prediction of yoga asanas for any given video.
