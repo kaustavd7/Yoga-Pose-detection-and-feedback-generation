@@ -5,6 +5,14 @@
 - We have created a comprehensive classification framework for yoga poses, with the goal of accurately identifying the specific posture being demonstrated by the participant in a given video recording.
 - Develop a structured feedback mechanism for evaluating yoga pose videos, focusing on aligning them with the standards of an ideal yoga demonstration.
 
+## Table of Contents
+- [Dataset and Feature Extraction](#Dataset and Feature Extraction)
+- [Installation](#installation)
+- [Usage](#usage)
+  - [Examples](#examples)
+- [Contributing](#contributing)
+- [License](#license)
+
 ### Dataset and Feature Extraction
 
 - Download yoga videos of 6 asanas from [Yoga-data](https://archive.org/details/YogaVidCollected) and extract feature by running the file "json_data_extractor_skip9".
